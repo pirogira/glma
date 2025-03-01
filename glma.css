@@ -1,0 +1,96 @@
+
+
+.first{
+    padding: 0;
+    border: 1000px;
+    margin: auto;
+    position: center;
+    background-image: url('https://i.pinimg.com/originals/28/de/d5/28ded5cd08b065165ae4f867cb775939.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 2000px;
+}
+.tod{
+    width: 1200px
+
+}
+.tyh{
+    color: black;
+    width: 340px;
+}
+table{
+    border-collapse: collapse;
+}
+.eshh{
+    text-align: center;
+    
+}
+.tod,.tyh{
+    padding: 0%;
+    height: 60px;
+    font-size: 20px;
+
+}
+div{
+    background-image: url("https://cs14.pikabu.ru/post_img/big/2022/10/30/10/166714686014771356.jpg");
+    border: 10px;
+    border-color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+*{
+    padding: 0%;
+}
+ 
+.tod,.tyh{
+    background-color: rgb(243, 240, 234);
+}
+.tod:hover,.tyh:hover{
+    
+    
+    background-color: rgb(184, 181, 168)
+}
+.bordi{
+    padding: 40px;
+    width: 1000px;
+    font-size: 70px;
+    text-align: center;
+    padding-left: 400px;
+    margin: auto;
+    border: 50px;
+}
+li{
+    font-size: 30px;
+    padding: 10px;
+    padding-left: 40px;
+}
+.yuh{
+    padding-top: 0%;
+    padding-left: 50px;
+}
+.yui{
+    padding-left: 0;
+}
+.bordi1{
+    padding: 40px;
+    width: 1000px;
+    font-size: 70px;
+    text-align: center;
+    padding-left: 0;
+    margin: auto;
+    border: 50px;
+}
+.olli{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:url("https://euro-oboi.com/upload/iblock/be2/be2a13aed5887b938198e22cbfcc84a3.jpeg");
+}
+.yui1{
+    text-align: center;
+    padding-left: 400px;
+    
+}

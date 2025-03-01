@@ -1,0 +1,58 @@
+.tod{
+    width: 1200px
+
+}
+.tyh{
+    color: black;
+    width: 340px;
+}
+.tod,.tyh{
+    padding: 0%;
+    height: 60px;
+    font-size: 20px;
+    background-color: rgb(238, 221, 198);
+
+}
+
+.tod:hover,.tyh:hover{
+    
+    
+    background-color: rgb(208, 187, 151)
+}
+.eshh{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.allahgator{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1000px;
+
+    background-image: url("https://d33y0z4ooepzrm.cloudfront.net/images/417bbb196fdc6162376bdc366b3e9a148c54e434/fullscreen/417bbb196fdc6162376bdc366b3e9a148c54e434.jpg");
+}
+
+td{
+    padding-left:400px ;
+    font-size: 40px;
+    padding: 100px;
+    border: 25px;
+    border-color: beige;
+    
+    width: 500;
+    
+}
+caption{
+    text-align: center;
+    box-shadow: inset;
+    box-shadow: 10px;
+    padding: 30px;
+    font-size: 50px;
+}

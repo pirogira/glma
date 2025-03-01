@@ -1,0 +1,38 @@
+.tod{
+    width: 630px
+
+}
+.tyh{
+    color: black;
+    width: 630px;
+}
+.tod,.tyh{
+    padding: 0%;
+    height: 60px;
+    font-size: 20px;
+    background-color: rgb(252, 252, 252);
+
+}
+
+.tod:hover,.tyh:hover{
+    
+    
+    background-color: rgb(218, 211, 200)
+}
+.eshh{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div{  
+    background-image: url("photo_2025-02-26_11-50-08.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1500px;
+    width: 1800px;
+    
+}

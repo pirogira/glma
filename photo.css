@@ -1,0 +1,48 @@
+td{
+    padding-left: 70px;
+    padding: 70px;
+    
+}
+div{
+    background-image: url("https://instamag.ru/content/images/instamag_images/top-menu/albumsdiy-32.webp");
+    background-color: rgb(248, 217, 180);
+}
+.tod{
+    width: 1200px
+
+}
+.tyh{
+    color: black;
+    width: 340px;
+}
+
+
+.tod,.tyh{
+    padding: 0%;
+    height: 60px;
+    font-size: 20px;
+    background-color: rgb(246, 201, 147);
+
+}
+
+.tod:hover,.tyh:hover{
+    
+    
+    background-color: rgb(212, 179, 122)
+}
+.tod,.tyh{
+    background-color: rgb(243, 240, 234);
+}
+.tod:hover,.tyh:hover{
+    
+    
+    background-color: rgb(184, 181, 168)
+}
+.eshh{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
